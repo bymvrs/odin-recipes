@@ -1,0 +1,38 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  color: maroon;
+}
+
+a {
+  color: #550000;
+}
+
+body {
+  background-color: whitesmoke;
+  width: 600px;
+  margin: 0 auto;
+  padding: 24px 0;
+  text-align: center;
+}
+
+ul,
+ol {
+  padding: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+li::marker {
+  color: maroon;
+  font-weight: bold;
+}
