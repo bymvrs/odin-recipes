@@ -1,6 +1,6 @@
 # Odin Recipes
 
-A simple recipe website created to practice basic HTML skills.
+A simple recipe website created to practice basic HTML and CSS skills.
 
 ## Credits
 
